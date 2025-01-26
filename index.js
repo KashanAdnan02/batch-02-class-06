@@ -66,7 +66,7 @@
 
 // students.push("hania")
 
-
+var array = []
 
 // students.push("Rubaish 4") // add in the last
 // students.pop() removes last element
@@ -90,9 +90,8 @@
 // console.log(name3)
 
 
-// slice  
+// slice
 
-// var students = ["Azzan", "Adeeba", "Aniq", "Faham", "Rubaish", "Saad", "Fahad", "Bazeen"]
 
 // var newArray = students.slice(0, 8)
 
@@ -100,3 +99,10 @@
 // console.log(students);
 
 
+
+
+// var email = ["Azzan@gmail.com", "Adeeba", "Aniq", "Faham", "Rubaish", "Saad", "Fahad", "Bazeen"]
+
+// if (prompt === email[0]){
+//     alert(you are successfully login)
+// }
